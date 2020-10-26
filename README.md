@@ -1,3 +1,7 @@
-URL :https://pedrohen1.github.io/Calculator/
+# Simple Calculator
+Only Css and Html!
 
-Enjoy!😄
+# Here is the URL 👇
+https://pedrohen1.github.io/Calculator/
+
+Enjoy!
